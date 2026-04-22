@@ -226,7 +226,7 @@ h1,h2,h3,h4,h5,h6{
 
 /* play start */
 .play{
-    background-image: url('/images/about/about-want.jpg');
+    background-image: url('../images/about/about-want.jpg');
     padding: 114px 0;
     background-repeat: repeat;
     background-size: cover;
