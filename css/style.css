@@ -45,7 +45,7 @@ h1,h2,h3,h4,h5,h6{
     transition: .3s ease-out;
 }
 .header-area{
-    background-image: url('/images/bg/header-bg.jpg');
+    background-image: url('../images/bg/header-bg.jpg');
     min-height: 100vh;
     background-size: cover;
     background-repeat: no-repeat;
